@@ -1,0 +1,13 @@
+{
+  "name": "Qzilla",
+  "description": "A basic query app",
+  "launch_path": "/webmaker.html",
+  "icons": {
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Team QuadSquad",
+    "url": "http://your-homepage-here.org"
+  },
+  "default_locale": "en"
+}
